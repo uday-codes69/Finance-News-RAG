@@ -1,0 +1,26 @@
+[project]
+name = "equity-research-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb>=0.5.3",
+    "ipykernel>=7.1.0",
+    "langchain>=0.2.10",
+    "langchain-community>=0.2.10",
+    "langchain-core>=0.2.20",
+    "langchain-groq>=0.1.5",
+    "langchain-openai>=1.1.7",
+    "langchain-text-splitters>=0.2.4",
+    "langchain-unstructured>=1.0.1",
+    "ollama>=0.2.1",
+    "pydantic>=2.12.5",
+    "python-dotenv>=1.0.1",
+    "requests>=2.32.3",
+    "streamlit>=1.32.0",
+    "tiktoken>=0.12.0",
+    "tqdm>=4.66.4",
+    "typing-extensions>=4.15.0",
+    "unstructured>=0.18.31",
+]

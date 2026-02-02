@@ -1,0 +1,24 @@
+# Core App
+streamlit>=1.32.0
+
+# Environment variables
+python-dotenv>=1.0.1
+
+# LangChain core
+langchain>=0.2.10
+langchain-core>=0.2.20
+langchain-community>=0.2.10
+langchain-text-splitters>=0.2.4
+
+# Vector Database
+chromadb>=0.5.3
+
+# Embeddings (Local via Ollama)
+ollama>=0.2.1
+
+# LLM Provider
+langchain-groq>=0.1.5
+
+# Utilities
+tqdm>=4.66.4
+requests>=2.32.3
