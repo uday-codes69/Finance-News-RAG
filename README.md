@@ -7,8 +7,8 @@ This project demonstrates **end-to-end GenAI system design**, including document
 ---
 
 ## 🚀 Demo Screenshot
+<img width="1591" height="759" alt="Screenshot 2026-02-02 at 4 18 26 PM" src="https://github.com/user-attachments/assets/84fc238f-570c-4689-85b1-4f0890a28711" />
 
-![App Screenshot](assets/app_ui.png)
 
 > 📌 *The UI allows users to input financial news URLs, ask questions, and receive grounded answers with sources.*
 
