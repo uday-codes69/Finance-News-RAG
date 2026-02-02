@@ -100,3 +100,8 @@ STEP 4: Install Project Dependencies
 Install all required libraries using the requirements file.
 
 uv install -r requirements.txt
+
+In app.py
+Run
+
+Streamlit run app.py
